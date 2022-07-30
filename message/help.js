@@ -71,7 +71,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 exports.menuall = (sender, prefix, pushname) => {
 	return `
 _*•──•──•──•──•──•──•──•*_
-   *NEOBOT WHATSAPP*
+   *Badru WHATSAPP*
   *BAILEYS MULTI DEVICE*
 _*•──•──•──•──•──•──•──•*_
 
@@ -272,7 +272,7 @@ Sanksi: *PERMANENT BLOCK*
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini di jual oleh Lexxy Official Jika Minat Chat Wa.me/6283834558105
+➡️ Script ini di jual oleh badru Jika Minat Chat Wa.me/6283832629797
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk sementara bot dalam status free to add group.

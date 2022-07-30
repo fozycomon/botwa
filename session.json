@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "6285789004759@s.whatsapp.net",
+          "remoteJid": "6283832629797",
           "fromMe": true,
           "id": "8561DCFC6B1642E4AE1D323BF6616876"
         },
@@ -50,7 +50,7 @@
       },
       {
         "key": {
-          "remoteJid": "6285789004759@s.whatsapp.net",
+          "remoteJid": "6283832629797@s.whatsapp.net",
           "fromMe": true,
           "id": "B19794092F0F83CBCD7A72172568785E"
         },
@@ -58,7 +58,7 @@
       },
       {
         "key": {
-          "remoteJid": "6285789004759@s.whatsapp.net",
+          "remoteJid": "6283832629797@s.whatsapp.net",
           "fromMe": true,
           "id": "FEC58117246FC359F953A5D924135B54"
         },
@@ -76,13 +76,13 @@
       "deviceSignature": "5G3itL6oF1WeufCsYnmK6Ndf9tfGNMhT0gKupXaO7paaeey1ejjMiCqolKM4eV1n4ZIwr6h/LB0w8Y3qrtgJgg=="
     },
     "me": {
-      "id": "6285789004759:34@s.whatsapp.net",
+      "id": "6283832629797:34@s.whatsapp.net",
       "name": "Feyza Frasetio 🌀"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6285789004759:34@s.whatsapp.net",
+          "name": "6283832629797:34@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
